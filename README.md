@@ -4,6 +4,18 @@
 
 [Enter a brief description of your project, including the data you used and the analytical methods you applied. Be sure to provide context for your project and explain why it is important.]
 
+Over time, Taiwan's demographic landscape has shifted significantly with the addition of 570,000 new immigrants, including migrant workers and international marriages (Source: WEALTH MAGAZINE, 2022). Taiwan once had the highest rate of international marriage in Asia, comprising nearly 15.9% of all marriages (Source: Commonwealth Magazine and WEALTH MAGAZINE, 2022).
+
+International marriages are crucial to Taiwan's demographic landscape. However, the trends in international marriages have been seldom discussed in recent years, particularly after the pandemic.
+
+In this study, we aim to explore the evolving landscape and trends of international marriages in Taiwan. Specifically, we seek to address the following questions:
+
+1. What is the overall landscape of international marriages in Taiwan?
+2. What are the trends of international marriages among different nationalities in the post-pandemic years?
+3. What are the gender dynamics of international marriages between major nationalities?
+
+
+
 ## Getting Started
 
 [Provide instructions on how to get started with your project, including any necessary software or data. Include installation instructions and any prerequisites or dependencies that are required.]
@@ -26,9 +38,9 @@ The members of this project include Billy Wu, Nicole Richi, and Sinaee.
 
 ## Acknowledgments
 
-We would like to thank Professor Pien Chung-Pei for his guidance throughout the semester.
+We would like to thank Professor Pien for his guidance throughout the semester.
 
-For insights into our results, we would like to thank Professor Ou Tzu-chi and Professor Su Yu-hsuan.
+For insights into our results, we would like to thank Professor Ou and Professor Su.
 
 ## References
 
